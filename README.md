@@ -4,7 +4,7 @@
 
 Results-oriented Cybersecurity Professional with hands-on experience in Vulnerability Assessment & Management, Security Operations, and Risk Analysis.
 
-### 💼 Professional Experience
+💼 Professional Experience
 
 * Conducted 100+ vulnerability assessments in enterprise environments
 * Worked with Qualys VMDR for vulnerability scanning and risk analysis
@@ -12,7 +12,7 @@ Results-oriented Cybersecurity Professional with hands-on experience in Vulnerab
 * Utilized SentinelOne CSPM for cloud security posture monitoring
 * Collaborated with security teams to support remediation efforts
 
-### 🛡️ Security Skills
+🛡️ Security Skills
 
 * Vulnerability Assessment
 * Vulnerability Management
@@ -22,7 +22,7 @@ Results-oriented Cybersecurity Professional with hands-on experience in Vulnerab
 * Cloud Security Fundamentals
 * OWASP Top 10
 
-### 🧰 Tools & Technologies
+🧰 Tools & Technologies
 
 * Qualys VMDR
 * CyberArk PAM
@@ -34,21 +34,15 @@ Results-oriented Cybersecurity Professional with hands-on experience in Vulnerab
 * Git & GitHub
 * Python
 
-### ☁️ Currently Learning
-
+ ☁️ Currently Learning
+ 
+* API Security Testing
 * AWS Security
 * DevSecOps
 * Application Security
-* API Security Testing
 
-### 📂 Featured Projects
 
-* Home Lab – Vulnerability Assessment Practice
-* VAPT Notes & Methodologies
-* Python Security Scripts
-* AWS Security Notes
-
-### 📫 Connect With Me
+ 📫 Connect With Me
 
 LinkedIn: linkedin.com/in/sujal-yadav-7a27032b2
 Email: [sujalsy10@gmail.com](mailto:sujalsy10@gmail.com)
